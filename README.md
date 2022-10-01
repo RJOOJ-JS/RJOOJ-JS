@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Brusader Stats](https://github-readme-stats.vercel.app/api?username=rcalfplural&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rcalfplural)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rcalfplural)](https://git.io/streak-stats) 
 <!--
 **RJOOJ-JS/RJOOJ-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
