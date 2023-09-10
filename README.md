@@ -2,9 +2,9 @@
 
 ![Brusader Stats](https://github-readme-stats.vercel.app/api?username=rcalfplural&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rcalfplural&theme=dracula)](https://git.io/streak-stats) 
-
-!["Madrugasso"](https://cdn.discordapp.com/attachments/746072573325869078/1099858603449520199/Madruguinthians.png)
 <!--
+!["Madrugasso"](https://cdn.discordapp.com/attachments/746072573325869078/1099858603449520199/Madruguinthians.png)
+
 **RJOOJ-JS/RJOOJ-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
